@@ -32,7 +32,7 @@ https://github.com/ugurcomptech/SureTypeBot/assets/133202238/a2cd0f69-2f59-471f-
 
 2. Sisteminizde Google Chrome tarayıcısının yüklü olduğundan ve Google Chrome Driver'ın indirilip PATH'e eklediğinizden emin olun.
 
-3. `bot_hizli_yaz.py` adlı Python betiğini indirin veya oluşturun.
+3. `app.py` adlı Python betiğini indirin veya oluşturun.
 
 4. Terminal veya Komut İstemi'ni açın ve dosya dizinini çalışma dizini olarak ayarlayın.
 
