@@ -1,6 +1,6 @@
 # SureTypeBot
 
-SureTypeBot, belirli bir yazma hızı testi sitesindeki kelimeleri otomatik olarak algılayan ve Selenium'u kullanarak daha hızlı bir şekilde yazan bir Python betiğidir.
+SureTypeBot, m5bilisim klavye hızı testi sitesindeki kelimeleri otomatik olarak algılayan ve Selenium'u kullanarak daha hızlı bir şekilde yazan bir Python betiğidir.
 
 
 ## Video
